@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Maksym-Huliaiev/backend-course-2025-3/issues"
   },
-  "homepage": "https://github.com/Maksym-Huliaiev/backend-course-2025-3#readme"
+  "homepage": "https://github.com/Maksym-Huliaiev/backend-course-2025-3#readme",
+  "dependencies": {
+    "interactive-commander": "^0.6.0"
+  }
 }
